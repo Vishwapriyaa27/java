@@ -1,0 +1,19 @@
+package java1;
+
+import java.util.Scanner;
+
+public class Odometer {
+public static void main(String[]args) {
+	Scanner sc=new Scanner(System.in);
+	
+	
+	System.out.println("Enter starting value:");
+	float starting=sc.nextFloat();
+	System.out.println("Enter ending value:");
+	float ending=sc.nextFloat();
+	float travel=ending-starting;
+	System.out.println("The final amount:"+travel*25);
+	
+}
+
+}
