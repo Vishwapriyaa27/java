@@ -1,0 +1,137 @@
+package java1;
+
+import java.util.Scanner;
+
+public class Nested {
+
+	public static void main(String[]args) {
+		Scanner sc=new Scanner(System.in);
+		int month=sc.nextInt();
+		int date=sc.nextInt();
+		if(month==1) {
+			if(date<=19) {
+				System.out.println("Capricon");
+			}
+			else if(date>=20 &date <=31){
+				System.out.println("Aquarius");
+			}
+			else {
+				System.out.println("Invalid");
+			}
+		}
+		if(month==2) {
+			if(date<=19) {
+				System.out.println("Capricon");
+			}
+			else if(date>=20 &date <=31){
+				System.out.println("Aquarius");
+			}
+			else {
+				System.out.println("Invalid");
+			}
+		}
+		if(month==3) {
+			if(date<=19) {
+				System.out.println("Capricon");
+			}
+			else if(date>=20 &date <=31){
+				System.out.println("Aquarius");
+			}
+			else {
+				System.out.println("Invalid");
+			}
+		}
+		if(month==4) {
+			if(date<=19) {
+				System.out.println("Capricon");
+			}
+			else if(date>=20 &date <=31){
+				System.out.println("Aquarius");
+			}
+			else {
+				System.out.println("Invalid");
+			}
+		}
+		if(month==5) {
+			if(date<=19) {
+				System.out.println("Capricon");
+			}
+			else if(date>=20 &date <=31){
+				System.out.println("Aquarius");
+			}
+			else {
+				System.out.println("Invalid");
+			}
+		}
+		if(month==6) {
+			if(date<=19) {
+				System.out.println("Capricon");
+			}
+			else if(date>=20 &date <=31){
+				System.out.println("Aquarius");
+			}
+			else {
+				System.out.println("Invalid");
+			}
+		}
+		if(month==7) {
+			if(date<=19) {
+				System.out.println("Capricon");
+			}
+			else if(date>=20 &date <=31){
+				System.out.println("Aquarius");
+			}
+			else {
+				System.out.println("Invalid");
+			}
+		}
+		
+		if(month==8) {
+			if(date<=19) {
+				System.out.println("Capricon");
+			}
+			else if(date>=20 &date <=31){
+				System.out.println("Aquarius");
+			}
+			else {
+				System.out.println("Invalid");
+			}
+		}
+		if(month==10) {
+			if(date<=19) {
+				System.out.println("Capricon");
+			}
+			else if(date>=20 &date <=31){
+				System.out.println("Aquarius");
+			}
+			else {
+				System.out.println("Invalid");
+			}
+		}
+		if(month==11) {
+			if(date<=19) {
+				System.out.println("Capricon");
+			}
+			else if(date>=20 &date <=31){
+				System.out.println("Tarus");
+			}
+			else {
+				System.out.println("Invalid");
+			}
+		}
+		
+		if(month==12) {
+			if(date<=19) {
+				System.out.println("Capricon");
+			}
+			else if(date>=20 &date <=31){
+				System.out.println("Aquarius");
+			}
+			else {
+				System.out.println("Invalid");
+			}
+		}
+		
+		
+	}
+}
