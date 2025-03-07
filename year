@@ -1,0 +1,15 @@
+package java1;
+import java.util.*;
+public class Year {
+	public static void main(String args[]) {
+		Scanner s =new Scanner(System.in);
+		int y=s.nextInt();
+		int given_year=1900;
+		int ry=0;
+		int ly=0;
+		y=(y-1)-given_year;
+		
+		
+	}
+
+}
